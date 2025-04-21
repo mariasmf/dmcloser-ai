@@ -31,7 +31,7 @@ export default function DMCloser() {
         ]
       }, {
         headers: {
-          Authorization: `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`,
+          Authorization: `Bearer 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`,
           "Content-Type": "application/json"
         }
       });
